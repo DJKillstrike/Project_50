@@ -1,0 +1,56 @@
+* {
+margin: 0px;
+
+}
+
+
+.header {
+   display: flex;
+   justify-content: space-between;
+   background-color: black;
+   font-size: 20px;
+   font-style: italic;
+   font-weight: 400;
+   color: white;
+   
+}
+
+.titleimg {
+    display: block;
+}
+
+.centre {
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    font-size: xx-large;
+    font-style: italic;
+    color: brown;
+}
+
+.grid img {
+
+    border: 2px solid black; 
+    border-radius: 50px;
+    
+}
+
+.grid {
+    display: flex ;
+    justify-content: space-evenly;
+    
+}
+
+.origami {
+   
+    
+
+    border-radius: 20px;
+    background-color: whitesmoke;
+
+    width: 320px;
+    font-family: fantasy;
+
+    
+}
+
